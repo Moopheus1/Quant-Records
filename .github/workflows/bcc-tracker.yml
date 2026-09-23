@@ -1,0 +1,54 @@
+name: BCC tracker
+
+# Forward test of the Basket Command Centre 2 dashboard categories.
+# Rebuilds the full log from data.json on completed daily bars only, then commits results.
+on:
+  schedule:
+    - cron: "30 22 * * 1-5"   # 06:30 SGT Tue-Sat, after the US close + data.json refresh
+  workflow_dispatch:           # manual run / cron-job.org dispatch
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bcc-tracker
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install openpyxl==3.1.5
+
+      - name: Rebuild tracker from completed bars
+        run: |
+          rm -rf /tmp/work.xlsx /tmp/out
+          python bcc/bcc_tracker.py /tmp/work.xlsx --export /tmp/out | tee /tmp/run.log
+          mkdir -p bcc/data/membership
+          cp /tmp/out/log.csv /tmp/out/stats.csv bcc/data/
+          for f in /tmp/out/membership_*.csv; do
+            b=$(basename "$f")
+            [ -f "bcc/data/membership/$b" ] || cp "$f" bcc/data/membership/
+          done
+
+      - name: Commit results (only if the CSVs changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add bcc/data/*.csv bcc/data/membership
+          if git diff --cached --quiet; then
+            echo "No new completed session or changes; nothing to commit."
+            exit 0
+          fi
+          cp /tmp/work.xlsx bcc/data/BCC-tracker.xlsx
+          git add bcc/data/BCC-tracker.xlsx
+          D=$(grep -o 'last_complete_bar=[0-9-]*' /tmp/run.log | cut -d= -f2)
+          git commit -m "BCC tracker: session $D"
+          git push
