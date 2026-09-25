@@ -1,3 +1,5 @@
 date,strategy,realised_$,open_mtm_$,equity_$,collateral_in_use_$,open_positions,premium_collected_cum_$
 2026-09-22,weekly,0,-1097.9,498902.1,420500.0,5,1168.1
 2026-09-22,monthly,0,-381.55,499618.45,416500.0,5,3261.45
+2026-09-24,weekly,0,-1712.9,498287.1,420500.0,5,1168.1
+2026-09-24,monthly,0,-1764.55,498235.45,416500.0,5,3261.45
