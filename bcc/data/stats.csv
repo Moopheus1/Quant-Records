@@ -1,9 +1,9 @@
-BCC forward-test stats | data asof 2026-10-02T22:40:43+00:00 | last completed session 2026-10-02
+BCC forward-test stats | data asof 2026-10-03T01:10:39+00:00 | last completed session 2026-10-02
 Category,N_Logged,N_5D,WinRate_5D,AvgRet_5D,AvgVsSPY_5D,BeatSPY%_5D,AvgNextOpenNet_5D,N_10D,WinRate_10D,AvgRet_10D,AvgVsSPY_10D,BeatSPY%_10D,AvgNextOpenNet_10D,N_20D,WinRate_20D,AvgRet_20D,AvgVsSPY_20D,BeatSPY%_20D,AvgNextOpenNet_20D
 Uptrend MA50,8,8,37.5,-0.34,-1.11,25.0,-0.93,7,28.6,-0.17,-1.28,28.6,-0.93,0,,,,,
-Golden Cross,150,104,45.2,-0.64,-1.0,35.6,-0.74,61,54.1,0.04,-0.82,47.5,-0.25,0,,,,,
-Bull Flag Watch,104,55,69.1,2.44,2.1,63.6,2.55,36,72.2,5.88,4.96,69.4,5.68,0,,,,,
-Breakout Watch (EOD),24,20,65.0,3.17,2.45,65.0,1.96,15,60.0,3.99,3.22,53.3,2.17,0,,,,,
-Performance: Strong Buy,86,64,59.4,1.47,0.84,51.6,1.81,41,68.3,4.08,3.24,61.0,4.06,0,,,,,
-Performance: Buy,87,66,50.0,0.95,0.55,42.4,1.14,38,55.3,1.59,0.75,55.3,1.5,0,,,,,
+Golden Cross,150,104,44.2,-0.64,-1.0,35.6,-0.74,61,54.1,0.04,-0.82,47.5,-0.25,0,,,,,
+Bull Flag Watch,104,55,69.1,2.44,2.1,63.6,2.54,36,72.2,5.88,4.96,69.4,5.68,0,,,,,
+Breakout Watch (EOD),25,20,65.0,3.17,2.45,65.0,1.96,15,60.0,3.99,3.21,53.3,2.17,0,,,,,
+Performance: Strong Buy,87,64,59.4,1.47,0.85,51.6,1.81,41,68.3,4.08,3.24,61.0,4.06,0,,,,,
+Performance: Buy,90,66,50.0,0.95,0.55,42.4,1.15,38,55.3,1.59,0.75,55.3,1.5,0,,,,,
 "Notes: rows flagged PARTIAL-BAR (logged from an intraday bar) are excluded. Categories with N < 20 at a horizon are insufficient sample. NextOpenNet = entry at next session open, exit at close h sessions after the signal day, minus 10 bps round-trip.",,,,,,,,,,,,,,,,,,,
