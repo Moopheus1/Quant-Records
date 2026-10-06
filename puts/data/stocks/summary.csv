@@ -1,3 +1,3 @@
 strategy,since,through,sessions,trades_closed,assigned,premium_collected_$,realised_pnl_$,equity_$,return_pct,max_drawdown_pct,collateral_in_use_$
-weekly,2026-09-22,2026-10-02,8,5,0,5768.55,3137.95,503811.05,0.762,-0.066,443750.0
-monthly,2026-09-22,2026-10-02,8,0,0,5873.95,0,504265.45,0.853,-0.139,440750.0
+weekly,2026-09-22,2026-10-05,9,7,0,6339.3,3894.05,504465.3,0.893,-0.066,400750.0
+monthly,2026-09-22,2026-10-05,9,0,0,5873.95,0,504839.45,0.968,-0.139,440750.0
