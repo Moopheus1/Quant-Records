@@ -1,280 +1,40 @@
 {
- "as_of": "2026-10-23",
- "fetched_at": "2026-10-24T06:18:35+08:00",
+ "as_of": "2026-10-27",
+ "fetched_at": "2026-10-28T06:18:56+08:00",
  "source": "Rallies get_options_flow_summary_for_ticker (min premium 25000, spreads excluded, latest session)",
  "tickers": {
-  "SMH": {
-   "date": "2026-10-23",
-   "trades": 216,
-   "call_prem": 11820344,
-   "put_prem": 36958483,
-   "bull": 20394190,
-   "bear": 25334372,
-   "neutral": 3050265,
-   "net": -4940182,
-   "iv": 0.4366
-  },
-  "XLU": {
-   "date": "2026-10-23",
-   "trades": 11,
-   "call_prem": 1342789,
-   "put_prem": 0,
-   "bull": 237671,
-   "bear": 1074118,
-   "neutral": 31000,
-   "net": -836447,
-   "iv": 0.166
-  },
-  "COPX": {
-   "date": "2026-10-23",
-   "trades": 10,
-   "call_prem": 3823360,
-   "put_prem": 2546160,
-   "bull": 0,
-   "bear": 256010,
-   "neutral": 6113510,
-   "net": -256010,
-   "iv": 1.5281
-  },
-  "PHO": {
-   "trades": 0
-  },
-  "JETS": {
-   "date": "2026-10-23",
-   "trades": 7,
-   "call_prem": 150841,
-   "put_prem": 304808,
-   "bull": 242618,
-   "bear": 213031,
-   "neutral": 0,
-   "net": 29587,
-   "iv": 0.3953
-  },
-  "XLC": {
-   "date": "2026-10-23",
-   "trades": 3,
-   "call_prem": 500000,
-   "put_prem": 1287155,
-   "bull": 0,
-   "bear": 0,
-   "neutral": 1787155,
-   "net": 0,
-   "iv": 0.1981
-  },
-  "XLP": {
-   "date": "2026-10-23",
-   "trades": 42,
-   "call_prem": 1969780,
-   "put_prem": 2980722,
-   "bull": 541456,
-   "bear": 2316255,
-   "neutral": 2092791,
-   "net": -1774799,
-   "iv": 0.1809
-  },
-  "XLRE": {
-   "date": "2026-10-22",
-   "trades": 1,
-   "call_prem": 61500,
-   "put_prem": 0,
-   "bull": 0,
-   "bear": 61500,
-   "neutral": 0,
-   "net": -61500,
-   "iv": 0.1421
-  },
-  "ICLN": {
-   "trades": 0
-  },
-  "GLD": {
-   "date": "2026-10-23",
-   "trades": 158,
-   "call_prem": 24105825,
-   "put_prem": 65243463,
-   "bull": 22399738,
-   "bear": 27206145,
-   "neutral": 39743405,
-   "net": -4806407,
-   "iv": 0.2488
-  },
-  "OIH": {
-   "trades": 0
-  },
-  "XLE": {
-   "date": "2026-10-23",
-   "trades": 149,
-   "call_prem": 16833964,
-   "put_prem": 7326823,
-   "bull": 8885410,
-   "bear": 4715275,
-   "neutral": 10560102,
-   "net": 4170135,
-   "iv": 0.2799
-  },
-  "XRT": {
-   "date": "2026-10-23",
-   "trades": 21,
-   "call_prem": 0,
-   "put_prem": 902244,
-   "bull": 113535,
-   "bear": 258263,
-   "neutral": 530446,
-   "net": -144728,
-   "iv": 0.2676
-  },
-  "IYT": {
-   "date": "2026-10-22",
-   "trades": 1,
-   "call_prem": 33000,
-   "put_prem": 0,
-   "bull": 33000,
-   "bear": 0,
-   "neutral": 0,
-   "net": 33000,
-   "iv": 0.2598
-  },
-  "XLK": {
-   "date": "2026-10-23",
-   "trades": 17,
-   "call_prem": 1492048,
-   "put_prem": 4683627,
-   "bull": 672549,
-   "bear": 1751526,
-   "neutral": 3751600,
-   "net": -1078977,
-   "iv": 0.2915
-  },
-  "XLF": {
-   "date": "2026-10-23",
-   "trades": 27,
-   "call_prem": 5396785,
-   "put_prem": 1358278,
-   "bull": 513994,
-   "bear": 5448896,
-   "neutral": 792173,
-   "net": -4934902,
-   "iv": 0.1975
-  },
-  "XLI": {
-   "date": "2026-10-23",
-   "trades": 18,
-   "call_prem": 330980,
-   "put_prem": 4427510,
-   "bull": 1763507,
-   "bear": 2994983,
-   "neutral": 0,
-   "net": -1231476,
-   "iv": 0.232
-  },
-  "XLB": {
-   "date": "2026-10-23",
-   "trades": 2,
-   "call_prem": 32800,
-   "put_prem": 25530,
-   "bull": 32800,
-   "bear": 25530,
-   "neutral": 0,
-   "net": 7270,
-   "iv": 0.2015
-  },
-  "XLY": {
-   "date": "2026-10-23",
-   "trades": 3,
-   "call_prem": 98350,
-   "put_prem": 28000,
-   "bull": 67980,
-   "bear": 30370,
-   "neutral": 28000,
-   "net": 37610,
-   "iv": 0.2143
-  },
-  "XLV": {
-   "date": "2026-10-23",
-   "trades": 3,
-   "call_prem": 64800,
-   "put_prem": 80000,
-   "bull": 38500,
-   "bear": 106300,
-   "neutral": 0,
-   "net": -67800,
-   "iv": 0.2011
-  },
-  "SLV": {
-   "date": "2026-10-23",
-   "trades": 151,
-   "call_prem": 4251105,
-   "put_prem": 47849852,
-   "bull": 13576524,
-   "bear": 35228861,
-   "neutral": 3295572,
-   "net": -21652337,
-   "iv": 0.7276
-  },
-  "SPY": {
-   "date": "2026-10-23",
-   "trades": 970,
-   "call_prem": 244856485,
-   "put_prem": 265328719,
-   "bull": 147151224,
-   "bear": 119170362,
-   "neutral": 243863618,
-   "net": 27980862,
-   "iv": 0.2103
-  },
-  "QQQ": {
-   "date": "2026-10-23",
-   "trades": 905,
-   "call_prem": 216316784,
-   "put_prem": 247408546,
-   "bull": 140161381,
-   "bear": 163165103,
-   "neutral": 160398846,
-   "net": -23003722,
-   "iv": 0.2598
-  },
-  "IWM": {
-   "date": "2026-10-23",
-   "trades": 491,
-   "call_prem": 16129743,
-   "put_prem": 98724565,
-   "bull": 30478524,
-   "bear": 35741845,
-   "neutral": 48633939,
-   "net": -5263321,
-   "iv": 0.236
-  },
   "SIL": {
-   "date": "2026-10-23",
+   "date": "2026-10-27",
    "trades": 1,
-   "call_prem": 256000,
+   "call_prem": 36000,
    "put_prem": 0,
-   "bull": 0,
-   "bear": 256000,
+   "bull": 36000,
+   "bear": 0,
    "neutral": 0,
-   "net": -256000,
-   "iv": 0.46
+   "net": 36000,
+   "iv": 0.5232
   },
   "GDX": {
-   "date": "2026-10-23",
-   "trades": 91,
-   "call_prem": 9030527,
-   "put_prem": 10583362,
-   "bull": 7971316,
-   "bear": 9885933,
-   "neutral": 1756640,
-   "net": -1914617,
-   "iv": 0.4301
+   "date": "2026-10-27",
+   "trades": 48,
+   "call_prem": 3676386,
+   "put_prem": 10346569,
+   "bull": 3552075,
+   "bear": 7674095,
+   "neutral": 2796785,
+   "net": -4122020,
+   "iv": 0.4062
   },
   "IGV": {
-   "date": "2026-10-23",
-   "trades": 45,
-   "call_prem": 569487,
-   "put_prem": 3327284,
-   "bull": 1101110,
-   "bear": 1973054,
-   "neutral": 822607,
-   "net": -871944,
-   "iv": 0.3398
+   "date": "2026-10-27",
+   "trades": 20,
+   "call_prem": 718280,
+   "put_prem": 826740,
+   "bull": 722246,
+   "bear": 692950,
+   "neutral": 129824,
+   "net": 29296,
+   "iv": 0.3478
   },
   "BOTZ": {
    "trades": 0
@@ -283,51 +43,90 @@
    "trades": 0
   },
   "KWEB": {
-   "date": "2026-10-23",
-   "trades": 42,
-   "call_prem": 2211487,
-   "put_prem": 194506,
-   "bull": 619581,
-   "bear": 1196224,
-   "neutral": 590188,
-   "net": -576643,
-   "iv": 0.2906
+   "date": "2026-10-27",
+   "trades": 12,
+   "call_prem": 476779,
+   "put_prem": 0,
+   "bull": 130130,
+   "bear": 301149,
+   "neutral": 45500,
+   "net": -171019,
+   "iv": 0.307
   },
   "SLX": {
    "trades": 0
   },
   "WGMI": {
-   "date": "2026-10-23",
-   "trades": 1,
-   "call_prem": 37350,
+   "date": "2026-10-27",
+   "trades": 4,
+   "call_prem": 270275,
    "put_prem": 0,
-   "bull": 37350,
+   "bull": 270275,
    "bear": 0,
    "neutral": 0,
-   "net": 37350,
-   "iv": 0.7683
+   "net": 270275,
+   "iv": 0.8681
   },
   "TAN": {
-   "date": "2026-10-21",
-   "trades": 5,
-   "call_prem": 404051,
-   "put_prem": 0,
-   "bull": 90186,
-   "bear": 265625,
-   "neutral": 48240,
-   "net": -175439,
-   "iv": 0.4239
-  },
-  "IWF": {
-   "date": "2026-10-21",
+   "date": "2026-10-27",
    "trades": 2,
-   "call_prem": 131375,
+   "call_prem": 360500,
    "put_prem": 0,
-   "bull": 131375,
+   "bull": 360500,
    "bear": 0,
    "neutral": 0,
-   "net": 131375,
-   "iv": 0.1838
+   "net": 360500,
+   "iv": 0.4343
+  },
+  "IWF": {
+   "trades": 0
+  },
+  "SMH": {
+   "date": "2026-10-27",
+   "trades": 152,
+   "call_prem": 29930993,
+   "put_prem": 20087942,
+   "bull": 13914329,
+   "bear": 33703001,
+   "neutral": 2401605,
+   "net": -19788672,
+   "iv": 0.3904
+  },
+  "XLU": {
+   "date": "2026-10-27",
+   "trades": 6,
+   "call_prem": 231045,
+   "put_prem": 0,
+   "bull": 61527,
+   "bear": 169518,
+   "neutral": 0,
+   "net": -107991,
+   "iv": 0.1689
+  },
+  "COPX": {
+   "date": "2026-10-27",
+   "trades": 2,
+   "call_prem": 77070,
+   "put_prem": 0,
+   "bull": 0,
+   "bear": 77070,
+   "neutral": 0,
+   "net": -77070,
+   "iv": 0.4343
+  },
+  "PHO": {
+   "trades": 0
+  },
+  "JETS": {
+   "date": "2026-10-27",
+   "trades": 3,
+   "call_prem": 92880,
+   "put_prem": 0,
+   "bull": 25080,
+   "bear": 33000,
+   "neutral": 34800,
+   "net": -7920,
+   "iv": 0.351
   },
   "WCLD": {
    "trades": 0
@@ -344,26 +143,26 @@
    "iv": 0.3526
   },
   "XBI": {
-   "date": "2026-10-23",
-   "trades": 15,
-   "call_prem": 135565,
-   "put_prem": 734807,
-   "bull": 454047,
-   "bear": 348117,
-   "neutral": 68208,
-   "net": 105930,
-   "iv": 0.3964
+   "date": "2026-10-27",
+   "trades": 13,
+   "call_prem": 641044,
+   "put_prem": 1292125,
+   "bull": 989509,
+   "bear": 884860,
+   "neutral": 58800,
+   "net": 104649,
+   "iv": 0.3855
   },
   "ITA": {
-   "date": "2026-10-23",
+   "date": "2026-10-27",
    "trades": 1,
-   "call_prem": 31900,
+   "call_prem": 42500,
    "put_prem": 0,
-   "bull": 31900,
-   "bear": 0,
+   "bull": 0,
+   "bear": 42500,
    "neutral": 0,
-   "net": 31900,
-   "iv": 0.2879
+   "net": -42500,
+   "iv": 0.269
   },
   "PAVE": {
    "date": "2026-10-21",
@@ -375,6 +174,207 @@
    "neutral": 0,
    "net": 334100,
    "iv": 0.2586
+  },
+  "OIH": {
+   "trades": 0
+  },
+  "XLE": {
+   "date": "2026-10-27",
+   "trades": 98,
+   "call_prem": 71047244,
+   "put_prem": 4057223,
+   "bull": 69536598,
+   "bear": 3475436,
+   "neutral": 2092433,
+   "net": 66061162,
+   "iv": 0.3688
+  },
+  "XRT": {
+   "date": "2026-10-26",
+   "trades": 3,
+   "call_prem": 25400,
+   "put_prem": 79000,
+   "bull": 0,
+   "bear": 104400,
+   "neutral": 0,
+   "net": -104400,
+   "iv": 0.2655
+  },
+  "IYT": {
+   "date": "2026-10-22",
+   "trades": 1,
+   "call_prem": 33000,
+   "put_prem": 0,
+   "bull": 33000,
+   "bear": 0,
+   "neutral": 0,
+   "net": 33000,
+   "iv": 0.2598
+  },
+  "XLK": {
+   "date": "2026-10-27",
+   "trades": 30,
+   "call_prem": 783377,
+   "put_prem": 1455534,
+   "bull": 1611870,
+   "bear": 627041,
+   "neutral": 0,
+   "net": 984829,
+   "iv": 0.2872
+  },
+  "XLF": {
+   "date": "2026-10-27",
+   "trades": 35,
+   "call_prem": 10140596,
+   "put_prem": 3984150,
+   "bull": 753595,
+   "bear": 209517,
+   "neutral": 13161634,
+   "net": 544078,
+   "iv": 0.1709
+  },
+  "XLI": {
+   "date": "2026-10-27",
+   "trades": 7,
+   "call_prem": 10521815,
+   "put_prem": 183715,
+   "bull": 189820,
+   "bear": 10515710,
+   "neutral": 0,
+   "net": -10325890,
+   "iv": 0.2101
+  },
+  "XLB": {
+   "date": "2026-10-27",
+   "trades": 1,
+   "call_prem": 0,
+   "put_prem": 949825,
+   "bull": 0,
+   "bear": 949825,
+   "neutral": 0,
+   "net": -949825,
+   "iv": 0.2275
+  },
+  "XLY": {
+   "date": "2026-10-27",
+   "trades": 2,
+   "call_prem": 2178000,
+   "put_prem": 43025,
+   "bull": 2221025,
+   "bear": 0,
+   "neutral": 0,
+   "net": 2221025,
+   "iv": 0.2244
+  },
+  "XLV": {
+   "date": "2026-10-27",
+   "trades": 2,
+   "call_prem": 0,
+   "put_prem": 93472,
+   "bull": 59472,
+   "bear": 34000,
+   "neutral": 0,
+   "net": 25472,
+   "iv": 0.2148
+  },
+  "XLC": {
+   "date": "2026-10-27",
+   "trades": 5,
+   "call_prem": 252745,
+   "put_prem": 0,
+   "bull": 191811,
+   "bear": 32934,
+   "neutral": 28000,
+   "net": 158877,
+   "iv": 0.1984
+  },
+  "XLP": {
+   "date": "2026-10-27",
+   "trades": 34,
+   "call_prem": 62400,
+   "put_prem": 2384782,
+   "bull": 245739,
+   "bear": 2154664,
+   "neutral": 46779,
+   "net": -1908925,
+   "iv": 0.1777
+  },
+  "XLRE": {
+   "date": "2026-10-22",
+   "trades": 1,
+   "call_prem": 61500,
+   "put_prem": 0,
+   "bull": 0,
+   "bear": 61500,
+   "neutral": 0,
+   "net": -61500,
+   "iv": 0.1421
+  },
+  "ICLN": {
+   "date": "2026-10-27",
+   "trades": 1,
+   "call_prem": 0,
+   "put_prem": 42280,
+   "bull": 0,
+   "bear": 42280,
+   "neutral": 0,
+   "net": -42280,
+   "iv": 0.4337
+  },
+  "GLD": {
+   "date": "2026-10-27",
+   "trades": 80,
+   "call_prem": 6814567,
+   "put_prem": 25365493,
+   "bull": 15705713,
+   "bear": 14305752,
+   "neutral": 2168595,
+   "net": 1399961,
+   "iv": 0.3202
+  },
+  "SLV": {
+   "date": "2026-10-27",
+   "trades": 70,
+   "call_prem": 3284670,
+   "put_prem": 2213920,
+   "bull": 3110501,
+   "bear": 1945705,
+   "neutral": 442384,
+   "net": 1164796,
+   "iv": 0.3956
+  },
+  "SPY": {
+   "date": "2026-10-27",
+   "trades": 972,
+   "call_prem": 258672347,
+   "put_prem": 154230585,
+   "bull": 76373402,
+   "bear": 84729169,
+   "neutral": 251800361,
+   "net": -8355767,
+   "iv": 1.801
+  },
+  "QQQ": {
+   "date": "2026-10-27",
+   "trades": 931,
+   "call_prem": 186171347,
+   "put_prem": 168169990,
+   "bull": 122877614,
+   "bear": 137878523,
+   "neutral": 93585200,
+   "net": -15000909,
+   "iv": 0.246
+  },
+  "IWM": {
+   "date": "2026-10-27",
+   "trades": 473,
+   "call_prem": 32801620,
+   "put_prem": 42406887,
+   "bull": 31166725,
+   "bear": 25736493,
+   "neutral": 18305289,
+   "net": 5430232,
+   "iv": 0.2184
   }
  }
 }
