@@ -1,9 +1,9 @@
-BCC forward-test stats | data asof 2026-10-10T22:50:36+00:00 | last completed session 2026-10-09
+BCC forward-test stats | data asof 2026-11-10T04:10:42+00:00 | last completed session 2026-11-09
 Category,N_Logged,N_5D,WinRate_5D,AvgRet_5D,AvgVsSPY_5D,BeatSPY%_5D,AvgNextOpenNet_5D,N_10D,WinRate_10D,AvgRet_10D,AvgVsSPY_10D,BeatSPY%_10D,AvgNextOpenNet_10D,N_20D,WinRate_20D,AvgRet_20D,AvgVsSPY_20D,BeatSPY%_20D,AvgNextOpenNet_20D
-Uptrend MA50,12,8,37.5,-0.34,-1.11,25.0,-0.93,8,25.0,-0.47,-1.53,25.0,-1.06,4,50.0,-0.07,-2.13,50.0,-0.75
-Golden Cross,186,150,48.0,0.09,-0.63,39.3,-0.18,104,51.9,-0.04,-0.87,45.2,-0.15,17,94.1,7.21,5.22,76.5,5.6
-Bull Flag Watch,136,104,64.4,2.31,1.38,57.7,1.87,55,74.5,4.74,3.85,72.7,4.86,19,84.2,11.09,9.07,73.7,11.28
-Breakout Watch (EOD),35,25,64.0,3.67,2.82,64.0,2.56,20,60.0,2.71,2.08,50.0,1.56,1,100.0,3.37,1.5,100.0,8.78
-Performance: Strong Buy,105,90,60.0,1.16,0.29,51.1,1.26,66,56.1,1.44,0.64,50.0,1.79,5,60.0,2.75,0.78,60.0,6.22
-Performance: Buy,123,93,58.1,1.79,1.04,48.4,1.59,66,57.6,1.42,0.65,56.1,1.62,6,33.3,2.24,0.25,33.3,5.48
+Uptrend MA50,152,130,31.5,-3.62,-3.13,31.5,-3.49,110,10.0,-11.48,-9.96,10.9,-11.36,17,29.4,-16.1,-15.09,29.4,-15.11
+Golden Cross,259,254,46.5,-0.33,-0.44,44.9,-0.36,234,58.1,0.35,0.3,54.3,0.22,191,71.7,3.58,3.83,71.7,3.3
+Bull Flag Watch,197,187,52.4,-0.4,-0.49,49.2,-0.4,173,50.3,-1.59,-1.67,50.3,-1.71,144,35.4,-7.14,-6.77,33.3,-7.4
+Breakout Watch (EOD),86,50,42.0,-1.95,-1.9,44.0,-2.19,42,38.1,-5.82,-5.63,33.3,-5.88,36,25.0,-14.28,-13.73,25.0,-14.62
+Performance: Strong Buy,204,175,45.1,-2.07,-2.19,39.4,-1.86,156,35.9,-5.32,-5.04,35.9,-5.12,108,30.6,-12.77,-12.72,29.6,-12.61
+Performance: Buy,237,202,47.0,-1.05,-1.02,42.1,-0.97,187,39.6,-3.59,-3.3,41.2,-3.6,129,24.8,-10.6,-9.97,22.5,-10.66
 "Notes: rows flagged PARTIAL-BAR (logged from an intraday bar) are excluded. Categories with N < 20 at a horizon are insufficient sample. NextOpenNet = entry at next session open, exit at close h sessions after the signal day, minus 10 bps round-trip.",,,,,,,,,,,,,,,,,,,
