@@ -1,9 +1,9 @@
-BCC forward-test stats | data asof 2026-11-13T22:40:42+00:00 | last completed session 2026-11-13
+BCC forward-test stats | data asof 2026-11-14T02:30:49+00:00 | last completed session 2026-11-13
 Category,N_Logged,N_5D,WinRate_5D,AvgRet_5D,AvgVsSPY_5D,BeatSPY%_5D,AvgNextOpenNet_5D,N_10D,WinRate_10D,AvgRet_10D,AvgVsSPY_10D,BeatSPY%_10D,AvgNextOpenNet_10D,N_20D,WinRate_20D,AvgRet_20D,AvgVsSPY_20D,BeatSPY%_20D,AvgNextOpenNet_20D
-Uptrend MA50,159,151,37.7,-2.7,-2.54,34.4,-2.61,122,11.5,-10.8,-9.38,12.3,-10.63,55,14.5,-17.37,-15.89,14.5,-16.9
+Uptrend MA50,159,151,37.7,-2.69,-2.54,34.4,-2.61,122,11.5,-10.8,-9.37,12.3,-10.63,55,14.5,-17.37,-15.89,14.5,-16.9
 Golden Cross,259,259,45.6,-0.52,-0.62,44.0,-0.52,250,55.6,-0.24,-0.2,52.4,-0.28,210,66.7,2.42,2.82,68.1,2.19
 Bull Flag Watch,206,195,52.8,-0.31,-0.42,49.7,-0.3,185,49.7,-1.54,-1.52,50.8,-1.47,160,34.4,-7.41,-6.82,32.5,-7.55
-Breakout Watch (EOD),83,75,52.0,0.32,-0.06,50.7,-0.23,50,34.0,-6.46,-5.96,32.0,-6.65,39,28.2,-13.52,-12.86,28.2,-13.56
-Performance: Strong Buy,213,199,45.7,-1.86,-2.11,39.2,-1.7,170,35.3,-5.63,-5.23,35.3,-5.38,119,31.1,-12.29,-12.06,30.3,-12.13
-Performance: Buy,249,231,45.9,-1.07,-1.19,40.7,-1.04,198,37.9,-3.85,-3.49,39.4,-3.72,152,27.0,-10.12,-9.34,25.7,-10.13
+Breakout Watch (EOD),82,75,52.0,0.32,-0.06,50.7,-0.23,50,34.0,-6.46,-5.96,32.0,-6.65,39,28.2,-13.52,-12.87,28.2,-13.56
+Performance: Strong Buy,212,199,45.7,-1.86,-2.11,39.2,-1.7,170,35.3,-5.63,-5.23,35.3,-5.38,119,31.1,-12.29,-12.06,30.3,-12.13
+Performance: Buy,247,231,45.9,-1.07,-1.18,40.7,-1.04,198,37.9,-3.85,-3.49,39.4,-3.72,152,27.0,-10.13,-9.34,25.7,-10.13
 "Notes: rows flagged PARTIAL-BAR (logged from an intraday bar) are excluded. Categories with N < 20 at a horizon are insufficient sample. NextOpenNet = entry at next session open, exit at close h sessions after the signal day, minus 10 bps round-trip.",,,,,,,,,,,,,,,,,,,
