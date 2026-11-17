@@ -1,9 +1,9 @@
-BCC forward-test stats | data asof 2026-11-17T04:30:47+00:00 | last completed session 2026-11-16
+BCC forward-test stats | data asof 2026-11-17T22:40:37+00:00 | last completed session 2026-11-17
 Category,N_Logged,N_5D,WinRate_5D,AvgRet_5D,AvgVsSPY_5D,BeatSPY%_5D,AvgNextOpenNet_5D,N_10D,WinRate_10D,AvgRet_10D,AvgVsSPY_10D,BeatSPY%_10D,AvgNextOpenNet_10D,N_20D,WinRate_20D,AvgRet_20D,AvgVsSPY_20D,BeatSPY%_20D,AvgNextOpenNet_20D
-Uptrend MA50,163,152,37.5,-2.7,-2.53,34.2,-2.61,130,11.5,-10.42,-8.99,13.1,-10.26,67,11.9,-18.69,-16.86,13.4,-18.06
-Golden Cross,260,259,45.6,-0.52,-0.62,44.0,-0.52,254,55.1,-0.36,-0.29,52.0,-0.4,214,65.4,2.17,2.62,67.8,1.96
-Bull Flag Watch,210,197,52.3,-0.45,-0.54,49.2,-0.42,187,49.2,-1.56,-1.53,50.3,-1.5,161,34.2,-7.42,-6.82,32.3,-7.56
-Breakout Watch (EOD),82,80,50.0,-0.13,-0.39,50.0,-0.49,50,34.0,-6.46,-5.96,32.0,-6.65,39,28.2,-13.52,-12.87,28.2,-13.56
-Performance: Strong Buy,218,203,45.8,-1.87,-2.07,39.4,-1.69,175,36.0,-5.45,-5.01,36.6,-5.2,123,30.9,-12.13,-11.79,30.9,-11.99
-Performance: Buy,250,237,45.6,-1.29,-1.36,40.5,-1.23,202,37.6,-3.83,-3.45,39.6,-3.71,159,27.0,-9.98,-9.08,27.0,-9.99
+Uptrend MA50,167,154,37.0,-2.73,-2.53,33.8,-2.67,134,11.9,-10.17,-8.7,13.4,-10.04,79,10.1,-19.68,-17.4,12.7,-19.54
+Golden Cross,261,259,45.6,-0.52,-0.62,44.0,-0.52,256,54.7,-0.55,-0.46,51.6,-0.58,218,64.2,1.73,2.26,66.5,1.5
+Bull Flag Watch,211,200,51.5,-0.58,-0.64,49.0,-0.56,190,48.4,-1.65,-1.57,49.5,-1.59,163,33.7,-7.46,-6.81,31.9,-7.6
+Breakout Watch (EOD),83,81,49.4,-0.18,-0.41,49.4,-0.57,52,32.7,-6.84,-6.25,30.8,-6.94,39,28.2,-13.52,-12.87,28.2,-13.56
+Performance: Strong Buy,225,207,45.4,-1.86,-2.02,40.1,-1.69,177,36.2,-5.45,-4.98,36.7,-5.22,128,31.2,-11.92,-11.41,32.0,-11.77
+Performance: Buy,254,242,45.0,-1.5,-1.52,40.1,-1.47,209,37.3,-3.8,-3.33,40.2,-3.74,166,25.9,-10.05,-8.99,27.1,-10.06
 "Notes: rows flagged PARTIAL-BAR (logged from an intraday bar) are excluded. Categories with N < 20 at a horizon are insufficient sample. NextOpenNet = entry at next session open, exit at close h sessions after the signal day, minus 10 bps round-trip.",,,,,,,,,,,,,,,,,,,
