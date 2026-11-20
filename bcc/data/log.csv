@@ -821,7 +821,7 @@ Date,Category,Ticker,EntryPrice,Fwd5D_Ret%,Fwd5D_Status,Fwd10D_Ret%,Fwd10D_Statu
 2026-10-22,Uptrend MA50,DELL,452.95,4.98,UP,-30.03,DOWN,-30.96,DOWN,,4.27,5.19,-25.98,-29.93,-24.66,-30.86
 2026-10-22,Uptrend MA50,JCI,143.0,10.68,UP,-8.07,DOWN,-4.88,DOWN,,9.97,11.4,-4.02,-7.49,1.43,-4.28
 2026-10-22,Uptrend MA50,MRVL,223.47,-2.3,DOWN,-40.24,DOWN,-38.09,DOWN,,-3.0,-2.54,-36.19,-40.43,-31.78,-38.28
-2026-10-22,Uptrend MA50,MU,856.49,9.08,UP,-23.36,DOWN,-19.44,DOWN,,8.37,8.25,-19.31,-23.98,-13.13,-20.08
+2026-10-22,Uptrend MA50,MU,856.49,9.08,UP,-23.36,DOWN,-19.42,DOWN,,8.37,8.25,-19.31,-23.98,-13.12,-20.07
 2026-10-22,Uptrend MA50,NVDA,212.21,0.68,UP,-14.42,DOWN,-31.2,DOWN,,-0.02,1.17,-10.37,-14.03,-24.89,-30.9
 2026-10-22,Uptrend MA50,QQQ,704.47,1.54,UP,-8.15,DOWN,-8.43,DOWN,,0.84,1.77,-4.1,-7.95,-2.12,-8.23
 2026-10-22,Uptrend MA50,SMH,523.35,7.32,UP,-14.45,DOWN,-14.49,DOWN,,6.62,7.37,-10.4,-14.43,-8.18,-14.46
@@ -833,7 +833,7 @@ Date,Category,Ticker,EntryPrice,Fwd5D_Ret%,Fwd5D_Status,Fwd10D_Ret%,Fwd10D_Statu
 2026-10-22,Golden Cross,META,648.85,-3.75,DOWN,-6.75,DOWN,-8.12,DOWN,,-4.46,-2.24,-2.69,-5.29,-1.81,-6.68
 2026-10-22,Bull Flag Watch,BB,8.59,6.98,UP,-2.56,DOWN,-3.14,DOWN,,6.28,7.13,1.49,-2.43,3.16,-3.02
 2026-10-22,Breakout Watch (EOD),SPOT,583.66,-4.53,DOWN,5.27,UP,0.07,FLAT,,-5.23,-4.48,9.32,5.33,6.38,0.12
-2026-10-22,Performance: Strong Buy,AAPL,348.22,0.2,FLAT,-1.16,DOWN,0.25,FLAT,,-0.51,-0.16,2.89,-1.52,6.56,-0.11
+2026-10-22,Performance: Strong Buy,AAPL,348.22,0.2,FLAT,-1.16,DOWN,0.26,FLAT,,-0.51,-0.16,2.89,-1.52,6.56,-0.1
 2026-10-22,Performance: Strong Buy,BEP,28.91,0.45,FLAT,5.98,UP,3.77,UP,,-0.26,0.87,10.04,6.44,10.08,4.21
 2026-10-22,Performance: Strong Buy,BUG,47.56,7.28,UP,-7.86,DOWN,-0.42,FLAT,,6.57,7.2,-3.81,-7.94,5.89,-0.5
 2026-10-22,Performance: Strong Buy,CELH,28.36,-0.71,DOWN,5.92,UP,8.36,UP,,-1.41,0.01,9.98,6.69,14.66,9.14
@@ -845,7 +845,7 @@ Date,Category,Ticker,EntryPrice,Fwd5D_Ret%,Fwd5D_Status,Fwd10D_Ret%,Fwd10D_Statu
 2026-10-22,Performance: Strong Buy,TEAM,223.16,-8.54,DOWN,-17.87,DOWN,-40.41,DOWN,,-9.25,-8.28,-13.81,-17.64,-34.1,-40.27
 2026-10-22,Performance: Buy,JPM,336.54,2.09,UP,0.24,FLAT,-4.84,DOWN,,1.39,3.08,4.29,1.2,1.47,-3.93
 2026-10-22,Performance: Buy,WMT,121.12,0.11,FLAT,5.45,UP,4.07,UP,,-0.6,-0.37,9.5,4.95,10.38,3.58
-2026-10-22,Performance: Buy,ZS,237.76,4.23,UP,-14.25,DOWN,-13.59,DOWN,,3.52,3.67,-10.2,-14.73,-7.28,-14.07
+2026-10-22,Performance: Buy,ZS,237.76,4.23,UP,-14.25,DOWN,-13.58,DOWN,,3.52,3.67,-10.2,-14.73,-7.27,-14.06
 2026-10-23,Uptrend MA50,ALAB,257.16,0.6,UP,-25.84,DOWN,,,,1.16,0.07,-22.59,-26.26,,
 2026-10-23,Uptrend MA50,AMD,516.79,-2.32,DOWN,-13.11,DOWN,,,,-1.76,-3.54,-9.86,-14.21,,
 2026-10-23,Uptrend MA50,DELL,456.44,-7.04,DOWN,-28.02,DOWN,,,,-6.48,-9.09,-24.78,-29.63,,
@@ -1060,7 +1060,7 @@ Date,Category,Ticker,EntryPrice,Fwd5D_Ret%,Fwd5D_Status,Fwd10D_Ret%,Fwd10D_Statu
 2026-11-05,Bull Flag Watch,MRNA,241.46,-4.19,DOWN,-17.51,DOWN,,,,-7.48,-5.83,-15.16,-18.93,,
 2026-11-05,Bull Flag Watch,PYPL,58.96,-1.12,DOWN,-4.38,DOWN,,,,-4.41,1.05,-2.03,-2.29,,
 2026-11-05,Breakout Watch (EOD),APP,356.1,10.55,UP,6.46,UP,,,,7.26,10.5,8.81,6.4,,
-2026-11-05,Performance: Strong Buy,AAPL,344.17,3.11,UP,1.43,UP,,,,-0.18,4.67,3.78,2.96,,
+2026-11-05,Performance: Strong Buy,AAPL,344.17,3.11,UP,1.44,UP,,,,-0.18,4.67,3.78,2.96,,
 2026-11-05,Performance: Strong Buy,AMZN,260.21,2.78,UP,-1.18,DOWN,,,,-0.51,2.84,1.17,-1.13,,
 2026-11-05,Performance: Strong Buy,APP,356.1,10.55,UP,6.46,UP,,,,7.26,10.5,8.81,6.4,,
 2026-11-05,Performance: Strong Buy,BABA,108.07,-12.69,DOWN,-22.91,DOWN,,,,-15.98,-11.77,-20.56,-22.12,,
@@ -1149,7 +1149,7 @@ Date,Category,Ticker,EntryPrice,Fwd5D_Ret%,Fwd5D_Status,Fwd10D_Ret%,Fwd10D_Statu
 2026-11-11,Performance: Strong Buy,BB,9.4,-8.88,DOWN,,,,,,-5.0,-5.46,,,,
 2026-11-11,Performance: Buy,ZETA,37.74,-9.96,DOWN,,,,,,-6.08,-7.03,,,,
 2026-11-12,Uptrend MA50,TEAM,152.29,-12.67,DOWN,,,,,,-7.21,-13.88,,,,
-2026-11-12,Uptrend MA50,ZS,193.22,6.33,UP,,,,,,11.79,4.07,,,,
+2026-11-12,Uptrend MA50,ZS,193.22,6.35,UP,,,,,,11.81,4.08,,,,
 2026-11-12,Bull Flag Watch,BB,9.12,-8.77,DOWN,,,,,,-3.31,-8.97,,,,
 2026-11-12,Bull Flag Watch,JPM,342.82,-6.58,DOWN,,,,,,-1.12,-7.65,,,,
 2026-11-12,Bull Flag Watch,PYPL,58.3,-3.29,DOWN,,,,,,2.17,-3.92,,,,
@@ -1216,7 +1216,8 @@ Date,Category,Ticker,EntryPrice,Fwd5D_Ret%,Fwd5D_Status,Fwd10D_Ret%,Fwd10D_Statu
 2026-11-19,Uptrend MA50,MSFT,498.16,,,,,,,,,,,,,
 2026-11-19,Uptrend MA50,PFE,27.57,,,,,,,,,,,,,
 2026-11-19,Golden Cross,TSLA,374.43,,,,,,,,,,,,,
-2026-11-19,Performance: Strong Buy,AAPL,349.1,,,,,,,,,,,,,
+2026-11-19,Performance: Strong Buy,AAPL,349.11,,,,,,,,,,,,,
+2026-11-19,Performance: Strong Buy,AMZN,257.14,,,,,,,,,,,,,
 2026-11-19,Performance: Strong Buy,AVGO,346.55,,,,,,,,,,,,,
 2026-11-19,Performance: Strong Buy,BEP,30.0,,,,,,,,,,,,,
 2026-11-19,Performance: Strong Buy,BUG,47.36,,,,,,,,,,,,,
@@ -1225,4 +1226,3 @@ Date,Category,Ticker,EntryPrice,Fwd5D_Ret%,Fwd5D_Status,Fwd10D_Ret%,Fwd10D_Statu
 2026-11-19,Performance: Buy,HACK,121.05,,,,,,,,,,,,,
 2026-11-19,Performance: Buy,MCD,272.42,,,,,,,,,,,,,
 2026-11-19,Performance: Buy,NET,303.69,,,,,,,,,,,,,
-2026-11-19,Performance: Buy,WMT,126.05,,,,,,,,,,,,,
