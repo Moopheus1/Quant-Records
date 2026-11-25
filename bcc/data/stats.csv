@@ -1,4 +1,4 @@
-BCC forward-test stats | data asof 2026-11-24T22:40:36+00:00 | last completed session 2026-11-24
+BCC forward-test stats | data asof 2026-11-25T04:50:40+00:00 | last completed session 2026-11-24
 Category,N_Logged,N_5D,WinRate_5D,AvgRet_5D,AvgVsSPY_5D,BeatSPY%_5D,AvgNextOpenNet_5D,N_10D,WinRate_10D,AvgRet_10D,AvgVsSPY_10D,BeatSPY%_10D,AvgNextOpenNet_10D,N_20D,WinRate_20D,AvgRet_20D,AvgVsSPY_20D,BeatSPY%_20D,AvgNextOpenNet_20D
 Uptrend MA50,176,166,40.4,-2.07,-1.63,37.3,-2.03,154,16.9,-8.91,-7.08,18.8,-8.85,110,7.3,-20.54,-16.86,11.8,-20.48
 Golden Cross,269,261,46.0,-0.5,-0.59,44.4,-0.51,259,54.1,-0.84,-0.7,51.0,-0.86,238,58.8,-0.48,0.56,62.2,-0.61
